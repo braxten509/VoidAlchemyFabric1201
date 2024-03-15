@@ -1,0 +1,25 @@
+{
+  "item.voidalchemy.pink_garnet": "Pink Garnet",
+  "item.voidalchemy.raw_pink_garnet": "Raw Pink Garnet",
+  "item.voidalchemy.metal_detector": "Metal Detector",
+  "item.voidalchemy.cauliflower": "Cauliflower",
+  "item.voidalchemy.peat_brick": "Peat Brick",
+
+  "block.voidalchemy.pink_garnet_block": "Block of Pink Garnet",
+  "block.voidalchemy.raw_pink_garnet_block": "Block of Raw Pink Garnet",
+  "block.voidalchemy.pink_garnet_ore": "Pink Garnet Ore",
+  "block.voidalchemy.deepslate_pink_garnet_ore": "Deepslate Pink Garnet Ore",
+  "block.voidalchemy.nether_pink_garnet_ore": "Nether Pink Garnet Ore",
+  "block.voidalchemy.end_stone_pink_garnet_ore": "End Stone Pink Garnet Ore",
+
+  "block.voidalchemy.sound_block": "Sound Block",
+
+  "item.voidalchemy.metal_detector.no_valuables": "No valuables found",
+
+  "itemgroup.pink_garnet_group": "Pink Garnet Group",
+
+  "tooltip.voidalchemy.metal_detector.tooltip.shift": "Right Click on blocks to find valuables",
+  "tooltip.voidalchemy.metal_detector.tooltip": "Press §eSHIFT§r for more information.",
+  "tooltip.voidalchemy.sound_block": "Plays a nice sound when walked on or Right Clicked"
+
+}
