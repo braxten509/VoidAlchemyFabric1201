@@ -1,0 +1,5 @@
+// 1.20.1	2024-02-20T22:31:06.4387814	Void Alchemy/Tags for minecraft:block
+78ef2a27b0eacddb70fd2193323f96785fc03245 data\minecraft\tags\blocks\mineable\pickaxe.json
+6607a08e06bb3ef4f7dd7ccd2d7dda9ca93b1e6c data\voidalchemy\tags\blocks\metal_detector_detectable_blocks.json
+9ae3d6a35863964bd334ad44be91e99ac05e6119 data\minecraft\tags\blocks\needs_iron_tool.json
+c0c5d9b75c8412e237abd54e4565fe7af52da60a data\minecraft\tags\blocks\needs_diamond_tool.json

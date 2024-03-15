@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "voidalchemy:pink_garnet_ore",
+    "voidalchemy:pink_garnet_block",
+    "voidalchemy:raw_pink_garnet_block",
+    "voidalchemy:deepslate_pink_garnet_ore",
+    "voidalchemy:end_stone_pink_garnet_ore",
+    "voidalchemy:nether_pink_garnet_ore"
+  ]
+}
